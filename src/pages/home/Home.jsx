@@ -15,6 +15,8 @@ function Home() {
         <NavButton to="/contactus" text="> Contact" />
         {/*         New change by other dev */}
         <NavButton to="/newchange" text="> New Change" />
+        {/*         New change by third dev */}
+        <NavButton to="/thirddev" text="> New Change Third Dev" />
       </div>
     </>
   );
