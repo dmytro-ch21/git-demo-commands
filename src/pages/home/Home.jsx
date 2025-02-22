@@ -17,6 +17,8 @@ function Home() {
         <NavButton to="/newchange" text="> New Change" />
         {/*         New change by third dev */}
         <NavButton to="/thirddev" text="> New Change Third Dev" />
+        {/* This should be stashed */}
+        <NavButton to="/stashme" text="> Stashme" />
       </div>
     </>
   );
