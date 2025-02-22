@@ -12,6 +12,7 @@ function Home() {
       <div className="text-center">
         <NavButton to="/about" text={'> About'} />
         <NavButton to="/demo" text="> Demo" />
+        <NavButton to="/contactus" text="> Contact" />
       </div>
     </>
   );
