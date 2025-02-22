@@ -13,6 +13,8 @@ function Home() {
         <NavButton to="/about" text={'> About'} />
         <NavButton to="/demo" text="> Demo" />
         <NavButton to="/contactus" text="> Contact" />
+        {/*         New change by other dev */}
+        <NavButton to="/newchange" text="> New Change" />
       </div>
     </>
   );
